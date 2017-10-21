@@ -1,3 +1,10 @@
+/** a simple js code for fibonacci series: adding the even values of the series
+
+to excute the code run : node --max-old-space-size=10240 fibonacci.js or 
+npm run runfibbo
+
+*/
+
 ///require math.js library to allow dealing with large numbers
 let math=require('mathjs');
 /// config to 2000 precision
