@@ -4,7 +4,7 @@
   "description": "",
   "main": "fac.js",
   "scripts": {
-   "runfibbo": "node --max-old-space-size=10240 fib.js",
+   "runfibbo": "node  fibonacci.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
